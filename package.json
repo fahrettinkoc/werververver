@@ -46,7 +46,7 @@
     "lower-case": "^1.1.4",
     "lyric-get": "^1.0.3",
     "lyricist": "^2.2.2",
-    "marked": "^0.6.1",
+    "marked": "^4.0.10",
     "math-expression-evaluator": "^1.2.17",
     "mc-ping-updated": "^0.1.0",
     "moment": "^2.24.0",
